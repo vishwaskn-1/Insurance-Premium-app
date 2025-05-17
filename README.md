@@ -1,2 +1,30 @@
-# Insurance-Premium-app
-The Medical Insurance Price Prediction web application built with Streamlit. It predicts the estimated annual insurance premium for individuals based on their demographic and lifestyle information using a trained machine learning model.
+# 🏥 Medical Insurance Premium Prediction App
+
+This is a Streamlit web application that predicts the annual medical insurance premium based on user input and explains the prediction using SHAP values.
+
+---
+
+## 🔍 Features
+
+- Predicts insurance premium using Machine Learning
+- User-friendly input interface
+- SHAP visualization for model explainability
+- Dataset analysis and visualization tab
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend**: Streamlit
+- **Backend**: Python, Scikit-learn
+- **Model Explainability**: SHAP
+- **Deployment**: Streamlit Cloud
+
+---
+
+## 📦 Requirements
+
+Install required Python packages using:
+
+```bash
+pip install -r requirements.txt
